@@ -7,3 +7,5 @@ requests
 matplotlib
 xgboost
 imbalanced-learn
+pytesseract
+Pillow
